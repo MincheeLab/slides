@@ -2,7 +2,13 @@
 
 Initial presentation for the Fab Lab. 
 
-to run it: 
+## setup
+`npm install`
+
+`bower install`
+
+## run
+
 `grunt `
 
 
