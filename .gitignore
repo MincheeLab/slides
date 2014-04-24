@@ -1,0 +1,5 @@
+fablab-intro-2014/node_modules
+fablab-intro-2014/slides/bower_components
+*.swp
+.tmp
+.sass-cache
