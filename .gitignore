@@ -3,3 +3,5 @@ fablab-intro-2014/slides/bower_components
 *.swp
 .tmp
 .sass-cache
+**/node_modules
+**/bower_components
