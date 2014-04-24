@@ -6,5 +6,3 @@ to run it:
 `grunt `
 
 
-Twitter: [ @gestadieu ](http://twitter.com/@gestadieu)
-
